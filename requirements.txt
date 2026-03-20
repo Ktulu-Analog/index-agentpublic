@@ -1,0 +1,14 @@
+# Qdrant AgentPublic Indexer - Dependencies
+
+# Vector database client
+qdrant-client>=1.9.0
+
+# HuggingFace dataset loading
+datasets>=2.19.0
+huggingface-hub>=0.23.0
+
+# Progress bar
+tqdm>=4.66.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
