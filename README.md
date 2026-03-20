@@ -135,6 +135,15 @@ MIN_BATCH_SIZE = 10        # Plancher pour la réduction dynamique du batch
 
 Le script divise automatiquement la taille du batch par 2 après 3 timeouts consécutifs, jusqu'à `MIN_BATCH_SIZE`.
 
+---
+
 ## 📄 Licence
 
-AGPL 3.0
+Ce projet est distribué sous licence **AGPL-3.0**.  
+Voir [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).
+
+---
+
+## 👤 Auteur
+
+Pierre COUGET — 2026
